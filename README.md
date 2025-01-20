@@ -13,5 +13,11 @@
 
 ## Useful Links
 
+ Challenge Website\
+ [crowdchallenge.tii.ae/the-crowdlabel-challenge](https://crowdchallenge.tii.ae/the-crowdlabel-challenge)
+
+ Registration Page\
+ [tii.community.wazoku.com/challenge](https://tii.community.wazoku.com/challenge/d960068fccf7422aaf2824d3e120b289)
+
  API Documentation\
  [github.com/tiiuae/crowdlabel/wiki](https://github.com/tiiuae/crowdlabel/wiki)
